@@ -1,0 +1,53 @@
+.row-one-tile-one,
+.row-one-tile-two,
+.row-one-tile-three {
+  border-radius: 16px;
+  width: 100%;
+  height: 300px;
+}
+
+.row-one-tile-one {
+  background-color: #f5f5dc;
+}
+
+.row-one-tile-two {
+  background-color: #ace1af;
+}
+
+.row-one-tile-three {
+  background-color: #D8BFD8;
+}
+
+.row-one-tiles {
+  margin-top: 16px;
+}
+
+.row-two-tile-item {
+  background-color: #353839;
+  border-radius: 16px;
+  height: 120px;
+  width: 100%;
+}
+
+.row-two-tiles,
+.row-one-tiles,
+.row-three-tiles {
+  margin: 0px;
+  padding: 8px;
+  width: 100%;
+}
+
+.row-three-tile-one,
+.row-three-tile-two {
+  border-radius: 16px;
+  height: 300px;
+  width: 100%;
+}
+
+.row-three-tile-one {
+  background-color: #f3e5ab;
+}
+
+.row-three-tile-two {
+  background-color: #bcb88a;
+}

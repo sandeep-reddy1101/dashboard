@@ -1,0 +1,13 @@
+.sidebar-buttons {
+    cursor: pointer;
+}
+
+.display-sidebar-buttons, .display-sidebar-button-icon {
+    display: none;
+}
+
+.sidebar-cross-button {
+    position: absolute;
+    left: 220px;
+    top: 20px;
+}
